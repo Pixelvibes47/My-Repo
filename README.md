@@ -1,2 +1,2 @@
 # My-Repo
-This repo is a demo repo for Some Experiments
+This repo is a demo repo for Some Experiment
